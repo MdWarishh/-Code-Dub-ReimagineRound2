@@ -2457,7 +2457,7 @@ nav {
         -webkit-box-direction: normal;
             -ms-flex-direction: column;
                 flex-direction: column;
-        margin-top: 18%;
+        margin-top: 23%;
 
     }
 
@@ -2467,19 +2467,20 @@ nav {
 
     .subs {
         top: 30%;
-        left: 22%;
+        /* text-align: center; */
+        left: 17%;
         width: 200px;
         /* adjust width for smaller screens */
     }
 
     .subs input[type="text"] {
-        width: 52vw !important;
+        width: 59vw !important;
         font-size: 12px;
         /* adjust font size for smaller screens */
     }
 
     .subs button[type="submit"] {
-        padding: 16px 30px;
+        padding: 11px 32px;
     }
 }
 
